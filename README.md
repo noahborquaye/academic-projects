@@ -1,0 +1,1 @@
+This repository features projects I completed during my studies, covering topics like Statistics, Data Science, and Operations Research. Each project reflects my skills in data analysis, programming, and problem-solving. Feel free to explore and see how I applied academic concepts to real-world problems!
